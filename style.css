@@ -240,6 +240,7 @@ img {
     position: absolute;
      bottom: 1rem;
      right: 1rem;
+     cursor: pointer;
  }
 
 /* =========== MEDIA BREAK POINTS ========== */
