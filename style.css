@@ -237,11 +237,16 @@ img {
     bottom: 0;
 }
 .madeBy{
-    position: absolute;
      bottom: 1rem;
      right: 1rem;
      cursor: pointer;
+     display: inline;
  }
+ .madeBy1{
+    bottom: 1rem;
+    right: 1rem;
+    display: inline;
+}
 
 /* =========== MEDIA BREAK POINTS ========== */
 
